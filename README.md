@@ -1,5 +1,5 @@
 Dialer Trunk
-VAC Dialer Trunk
+Dialer Trunk
 
 Version 3.0.9
 

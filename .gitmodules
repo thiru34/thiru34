@@ -1,0 +1,3 @@
+[submodule "www/VAC/VINCAS"]
+	path = www/VAC/VINCAS
+	url = https://github.com/vac-soft/VINCAS.git
